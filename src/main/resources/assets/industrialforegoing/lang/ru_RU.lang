@@ -49,6 +49,17 @@ text.industrialforegoing.plant.slime_tree= - Дерево слизи [Tinker's C
   "@PAGE@" -> Will create a new page and the following text will be in a new page
   "{" -> Will start a bold/colored string to be highlighted
   "}" -> Will stop the highlight -->
+  
+text.industrialforegoing.book.title=Мануал по моду Industrial Foregoing
+text.industrialforegoing.book.category.getting_started=Начало развития
+text.industrialforegoing.book.category.generators=Генераторы
+text.industrialforegoing.book.category.agriculture=Агрокультура
+text.industrialforegoing.book.category.animal_husbandry=Разведение животных
+text.industrialforegoing.book.category.magic=Магия
+text.industrialforegoing.book.category.storage=Хранение
+text.industrialforegoing.book.category.mob_interaction=Взаимодействие с мобами
+text.industrialforegoing.book.category.resource_production=Производство ресурсов
+text.industrialforegoing.book.category.items=Предметы
 
 text.industrialforegoing.book.animal_byproduct_recolector=Когда он будет снабжен энергей, то будет собираться {отходы} у животных сверху.
 text.industrialforegoing.book.animal_growth_increaser=Когда он снабжен энергией и {есть} пища, он будет кормить детенышей животных, чтобы сделать их быстрее.
